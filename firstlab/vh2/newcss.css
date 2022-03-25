@@ -4,7 +4,7 @@ background-color: rgba(255, 255, 128, .5);
 
 }
 h2{
-font-size:5pt;
+font-size:15pt;
 color: white;
 }
 .red{
@@ -14,10 +14,10 @@ color: blue;
     width: 400px;
     height: 400px;
     background: gray;
-     border: 3px solid black;
+    border: 3px solid black;
     border-radius: 25px;
     margin: 200px;
- position: relative;
+    position: relative;
 }
 .circle {
     width: 30px;
@@ -27,9 +27,9 @@ color: blue;
     -webkit-border-radius: 60px;
     border-radius: 60px;
     border:3px solid black;
-   position: absolute;
-bottom:190px;
-left:10px;
+    position: absolute;
+    bottom:190px;
+    left:10px;
    
 }
 
@@ -41,10 +41,9 @@ left:10px;
     -webkit-border-radius: 60px;
     border-radius: 60px;
     border:3px solid black;
-   position: absolute;
-bottom:190px;
-left:360px;
-   
+    position: absolute;
+    bottom:190px;
+    left:360px;
 }
 .circle3 {
     width: 30px;
@@ -54,9 +53,9 @@ left:360px;
     -webkit-border-radius: 60px;
     border-radius: 60px;
     border:3px solid black;
-   position: absolute;
-bottom:10px;
-left:180px;
+    position: absolute;
+    bottom:10px;
+    left:180px;
    
 }
 .circle4 {
@@ -67,36 +66,30 @@ left:180px;
     -webkit-border-radius: 60px;
     border-radius: 60px;
     border:3px solid black;
-   position: absolute;
-bottom:360px;
-left:180px;
-   
+    position: absolute;
+    bottom:360px;
+    left:180px;
 }
 
 .square2 {
     width: 5px;
     height: 185px;
     background: black;
-     border: 1px solid black;
-     position: absolute;
-bottom:184px;
-left:194px;
-
-.first{ 
-width: 50%;
-cellspacing: 100px;}
+    border: 1px solid black;
+    position: absolute;
+    bottom:184px;
+    left:194px;
 }
 .square3 {
     width: 175px;
     height: 5px;
     background: black;
-     border: 1px solid black;
-     position: absolute;
-bottom:204px;
-left:174px;
- p { 
-     color: green;
-     font-size: 100%; /* Размер шрифта в процентах */ 
-   
-    }
+    border: 1px solid black;
+    position: absolute;
+    bottom:204px;
+    left:174px;
 }
+ p { 
+     color: purple;
+     font-size: 100%; /* Размер шрифта в процентах */ 
+    }
